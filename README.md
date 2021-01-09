@@ -7,6 +7,7 @@
 * pandas
 * matplotlib
 * sklearn
+* keras
 
 ### Instructions:
 Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. 
